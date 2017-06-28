@@ -54,4 +54,4 @@ while ans1 != "no" or "yes":
         cave()
     else:
         print("ERROR: Not a possible answer. Please try again.")
-        ans1 = input()
+        ans1 = input() 
